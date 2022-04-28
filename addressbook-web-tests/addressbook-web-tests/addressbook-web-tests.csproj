@@ -71,11 +71,14 @@
     <Compile Include="Figure\Square.cs" />
     <Compile Include="Figure\FigureTests.cs" />
     <Compile Include="GroupData.cs" />
+    <Compile Include="GroupRemovalTest.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
     <Compile Include="GroupCreationTests.cs" />
+    <Compile Include="TestBase.cs" />
   </ItemGroup>
   <ItemGroup>
-    <None Include="FigureDiagram.cd" />
+    <None Include="ClassDiagram1.cd" />
+    <None Include="Figure\FigureDiagram.cd" />
     <None Include="packages.config" />
   </ItemGroup>
   <Choose>
